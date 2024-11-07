@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/P-ti-bob/mon-portfolio/'
+languageCode = 'fr-fr'
+title = "Thibaud's Portfolio"
+theme= ["PaperMod"]
